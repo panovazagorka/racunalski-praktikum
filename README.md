@@ -1,4 +1,4 @@
-# racunalnicki-praktikum
+# Računalniški praktikum
 Shortcuts:
   Ctrl + Shift + F - najti v datotekah
   Ctrl + Shift + H - zamenjati v datotekah
